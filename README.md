@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Isabele Smanioto  
 
-<!--
-**Belesmani/Belesmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação | 🚀 Aprendendo HTML, CSS e JavaScript  
 
-Here are some ideas to get you started:
+## 🖥️ Sobre mim  
+Olá! Sou a Isabele Smanioto, apaixonada por tecnologia e atualmente focada no aprendizado de **HTML, CSS e JavaScript** para me tornar uma desenvolvedora web. Sempre buscando desafios e novas oportunidades para expandir meus conhecimentos!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas  
+- 🌐 HTML, CSS e JavaScript  
+- 🎨 Design Responsivo  
+- 📌 Em aprendizado constante  
+
+## 📚 O que estou estudando?  
+📌 Atualmente, estou aprofundando meus conhecimentos em:  
+- HTML e CSS para criação de páginas bem estruturadas e estilizadas  
+- JavaScript para interatividade e dinamismo  
+- Princípios de UI/UX  
+
+## 🌟 Objetivos  
+🚀 Me tornar uma desenvolvedora front-end e contribuir para projetos incríveis!  
+
+## 📫 Como me encontrar?  
+📧 [Seu e-mail ou LinkedIn]  
+💻 [Seu portfólio (caso tenha)]  
+
+✨ Vamos construir algo incrível juntos! ✨  
