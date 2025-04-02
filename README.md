@@ -1,26 +1,29 @@
-# 👩‍💻 Isabele Smanioto  
+👩‍💻 Isabele Smanioto da Costa
 
-🎓 Estudante de Tecnologia da Informação | 🚀 Aprendendo HTML, CSS e JavaScript  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Apaixonada por desafios e inovação, estou sempre explorando novas tecnologias, aprimorando minhas habilidades e criando soluções práticas para problemas reais.
+🚀 Meu GitHub reflete essa jornada: Aqui você encontra desde experimentos e estudos até projetos mais estruturados. Adoro colaborar, aprender com a comunidade e trocar ideias sobre desenvolvimento de software!
 
-## 🖥️ Sobre mim  
-Olá! Sou a Isabele Smanioto, apaixonada por tecnologia e atualmente focada no aprendizado de **HTML, CSS e JavaScript** para me tornar uma desenvolvedora web. Sempre buscando desafios e novas oportunidades para expandir meus conhecimentos!  
+🛠️ Tecnologias e Ferramentas:
+🌐 Front-end: HTML, CSS, JavaScript
+⚙️ Back-end: Java, SQL
+📊 Banco de Dados: Oracle
+🎨 Design Responsivo
+📌 Em constante aprendizado
 
-## 🛠️ Tecnologias e Ferramentas  
-- 🌐 HTML, CSS e JavaScript  
-- 🎨 Design Responsivo  
-- 📌 Em aprendizado constante  
+📚 O que estou estudando?
+📌 Atualmente, estou aprofundando meus conhecimentos em:
+🖥️ Java:: Conceitos de programação orientada a objetos (POO), desenvolvimento de back-end com Spring Boot e criação de APIs RESTful seguras e funcionais.
+📐 Estruturas de Dados: Algoritmos, manipulação de dados e otimização de performance.
+📊 Banco de Dados: Consultas avançadas em SQL/PLSQL, modelagem de dados e gestão eficiente de informações.
+🎨 Front-end: Criação de interfaces interativas e responsivas para melhorar a experiência do usuário (UX).
 
-## 📚 O que estou estudando?  
-📌 Atualmente, estou aprofundando meus conhecimentos em:  
-- HTML e CSS para criação de páginas bem estruturadas e estilizadas  
-- JavaScript para interatividade e dinamismo  
-- Princípios de UI/UX  
+🌟 Objetivo
+🚀 Tornar-me desenvolvedora full-stack e contribuir para projetos incríveis!
 
-## 🌟 Objetivos  
-🚀 Me tornar uma desenvolvedora front-end e contribuir para projetos incríveis!  
+📫 Como me encontrar?
+📧 E-mail: isabelesmanioto@gmail.com
+🔗 LinkedIn: linkedin.com/in/isabelesmanioto](https://www.linkedin.com/in/isabele-smanioto-914253276/
 
-## 📫 Como me encontrar?  
-📧 [Seu e-mail ou LinkedIn]  
-💻 [Seu portfólio (caso tenha)]  
+✨ Vamos construir algo incrível juntos! ✨
 
-✨ Vamos construir algo incrível juntos! ✨  
